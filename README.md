@@ -19,13 +19,9 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino no #BoraCod
 
 <p align="center">
 
-<<<<<<< HEAD
-  <img alt="projeto Calculator" src="./assets/calculator-preview.jpg" width="100%">
-=======
-  <img alt="projeto Calculator" src="./assets/calculator.png" width="100%">
->>>>>>> 37562a436de9a142404473ff3da89d4fbfb58d81
 
-  
+  <img alt="projeto Calculator" src="./assets/calculator-preview.jpg" width="100%">
+
 
 </p>
 
@@ -55,10 +51,9 @@ Esse projeto está sob a licença MIT.
 ---
 
 
-<<<<<<< HEAD
+
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 =======
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
 
->>>>>>> 37562a436de9a142404473ff3da89d4fbfb58d81
